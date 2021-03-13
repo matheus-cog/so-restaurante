@@ -1,0 +1,53 @@
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\bin\Debug\soRestaurante.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.cadastroReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.edicaoReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.listagemCategoria.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.listagemDificuldade.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.listagemReceitas.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.listagemTempoPreparo.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.remocaoReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\obj\Debug\soRestaurante.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\bin\Debug\soRestaurante.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante1\soRestaurante\bin\Debug\soRestaurante.pdb
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.exe.config
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.exe
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.pdb
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.csprojAssemblyReference.cache
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.cadastroReceita.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.edicaoReceita.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.Form1.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemCategoria.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemDificuldade.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemReceitas.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemTempoPreparo.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.Properties.Resources.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.remocaoReceita.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.csproj.GenerateResource.cache
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.exe
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.cadastroReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.edicaoReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemCategoria.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemDificuldade.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemReceitas.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.listagemTempoPreparo.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.remocaoReceita.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.TrustInfo.xml
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.exe.manifest
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.exe.manifest
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.application
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\bin\Debug\soRestaurante.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.application
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\soRestaurante\soRestaurante\obj\Debug\soRestaurante.csprojResolveAssemblyReference.cache
